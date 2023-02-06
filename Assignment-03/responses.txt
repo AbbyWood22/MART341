@@ -1,0 +1,14 @@
+this is a testS
+
+What is the relationship between an IP address and the DNS?
+An IP address is is an address assigned to your computer while a DNS is a
+Domain Name Service which is used to convert alphabetic references into a 
+server's IP address generally for hosting services
+
+What is a cookie?
+cookies are placed on the device used to access a website, 
+and more than one cookie may be placed on a user's device during a session. 
+they are also used to remember ones information if and when they wish to return to a certain site.
+
+What are the three essential parts of a URL?
+a protocol, a domain nama, and a path. 
