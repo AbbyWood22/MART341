@@ -1,0 +1,3 @@
+Disney on the Wayback:
+
+In the wayback machine I looked up Disney. I was able to see a snapshot of the Disney webpage from back in 2004. I noticed right off the bat that the page did not fill the entire screen and the words were gray. Then I moved on to 2014, while this is quite the jump the webpage acts as almost a centerpiece on the page, there is nothing on the sides exept for white boarders. There is also a carosel of pictures on the top, I did enjoy this. If you go on the website today, the webpage takes up the whole screen and also if you hover over an image it will increase it's size ever so slighly. 
